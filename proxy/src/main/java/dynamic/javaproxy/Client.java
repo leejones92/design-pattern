@@ -4,7 +4,7 @@ import java.lang.reflect.Proxy;
 
 /**
  * @author liyang
- * @email liyang@51dojo.com
+
  * @create 2018-04-20 上午10:48
  * @description 动态代理
  **/

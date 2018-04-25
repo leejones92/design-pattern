@@ -1,6 +1,6 @@
 /**
  * @author liyang
- * @email liyang@51dojo.com
+
  * @create 2018-04-20 下午12:57
  * @description 懒汉式
  **/
